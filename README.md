@@ -1,3 +1,4 @@
-# dujitang
-毒鸡汤
-lj;dskjfa;sldkf asdflkajs;dlkf
+# 毒鸡汤
+一篇文字www.dumogu.top的一个小分支，纯静态html，支持键盘操作，无脑部署！
+连文件都只有一个，另一个是logo，根据自己的爱好使用。
+
